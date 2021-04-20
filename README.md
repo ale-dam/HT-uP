@@ -1,4 +1,4 @@
-# A Benchmark Suite of RT-level Hardware Trojansfor Pipelined Microprocessor Cores
+# A Benchmark Suite of RT-level Hardware Trojans for Pipelined Microprocessor Cores
 
 
 
