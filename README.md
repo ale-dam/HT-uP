@@ -1,4 +1,4 @@
-# HT-Benchmarks-for-Pipelined-Microprocessor-Core
+# A Benchmark Suite of RT-level Hardware Trojansfor Pipelined Microprocessor Cores
 
 
 
